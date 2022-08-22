@@ -14,4 +14,5 @@ Auto Ngrok has to offer:
 ## Prerequisites
 
 - Have a login for Ngrok
+- Put Main and Requirments into a folder, title it however you want.
 - Make sure Ngrok is in the same folder as auto ngrok
