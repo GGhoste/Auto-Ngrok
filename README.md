@@ -11,8 +11,8 @@ Auto Ngrok has to offer:
 - Minecraft Server Host or Local Server hosting tutorial
 - Authentication Selection for New Ngrok users
 
-## Prerequisites
+## Prerequisites/Setup
 
 - Have a login for Ngrok
-- Put Main and Requirments into a folder, title it however you want.
+- Put main.py and requirments.py into a folder, title it however you want.
 - Make sure Ngrok is in the same folder as auto ngrok
